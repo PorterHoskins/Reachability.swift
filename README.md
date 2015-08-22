@@ -1,4 +1,9 @@
-# Reachability.swift
+Reachability.swift
+============
+
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+
 
 Replacement for Apple's Reachability re-written in Swift with closures
 
